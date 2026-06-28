@@ -1,0 +1,28 @@
+{
+  "reservas": [
+    {
+      "id": "35b1",
+      "tipo": "PREMIUN",
+      "precio": 150,
+      "nombre": "pepe"
+    },
+    {
+      "id": "7d34",
+      "tipo": "premiun",
+      "precio": 150,
+      "nombre": "ney"
+    },
+    {
+      "id": "a277",
+      "tipo": "NORMAL",
+      "precio": 50,
+      "nombre": "pepsi"
+    },
+    {
+      "id": "e3f1",
+      "tipo": "NORMAL",
+      "precio": 50,
+      "nombre": "fernando"
+    }
+  ]
+}
